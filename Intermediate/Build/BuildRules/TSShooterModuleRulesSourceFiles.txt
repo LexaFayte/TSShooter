@@ -1,0 +1,3 @@
+A:\Unreal Engine Programming\TSShooter\Source\TSShooter\TSShooter.Build.cs
+A:\Unreal Engine Programming\TSShooter\Source\TSShooter.Target.cs
+A:\Unreal Engine Programming\TSShooter\Source\TSShooterEditor.Target.cs

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TSShooter.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{E28DCC54-02CC-4778-AC91-871D6BC530AC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TSShooter.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TSShooterEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D16BA46F-6A82-4C3D-8CBA-122F97C8966D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TSShooter">
+			<UniqueIdentifier>{F2B14972-5788-47FA-8C2C-A9B5B96224AE}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\TSShooter\BaseCharacter.cpp">
+			<Filter>Source\TSShooter</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TSShooter\BaseCharacter.h">
+			<Filter>Source\TSShooter</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\TSShooter\TSShooter.Build.cs">
+			<Filter>Source\TSShooter</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TSShooter\TSShooter.cpp">
+			<Filter>Source\TSShooter</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TSShooter\TSShooter.h">
+			<Filter>Source\TSShooter</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
